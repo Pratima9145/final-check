@@ -1,1 +1,107 @@
-/* Add styles for application here */
+body {
+	height: 100%;
+}
+header {
+	background-color: #254c8a;
+	color: #ffffff;
+	height: 60px;
+}
+footer {
+	background-color: #a9abaa;
+	height: 60px;
+}
+.cont {
+	height: 810px;
+	border: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+img {
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-left: 30px;
+}
+#movie {
+	float: right;
+	margin-right: 50px;
+	margin-top: 20px;
+	color: #ffffff;
+}
+span {
+	margin-left: 10px;
+	margin-top: 18px;
+	float: left;
+	font-size: 16pt;
+}
+h2,table {
+	margin-left: 60px;
+}
+.titles {
+	text-align: left;
+	width: 200px;
+}
+.gros {
+	text-align: right;
+	width: 100px;
+}
+.cntr {
+	text-align: center;
+	width: 120px;
+}
+.centr {
+	text-align: center;
+	width: 120px;
+}
+#fav {
+	float: right;
+	margin-right: 5px;
+	margin-top: 20px;
+	color: #ffffff;
+}
+.btn {
+	color: #ffffff;
+	background-color: #254c8a;
+	width: 110px;
+	height: 40px;;
+	text-align: center;
+}
+.tbox {
+	width: 487px;
+}
+.grs {
+	width: 80px;
+	text-align: right;
+}
+.dolaunch {
+	width: 100px;
+}
+#para {
+	color: #0bbf41;
+	font-size: 14pt;
+}
+#para1 {
+	color: #0bbf41;
+	text-align: center;
+	font-size: 16pt;
+}
+#gry {
+	color: #a1a7b3;
+	margin-left: 52px;
+}
+#movielist {
+	color: #2798d9;
+}
+#fav1 {
+	color: #17bd46;
+	margin-left: 80px;
+}
+.notify {
+	text-align: bottom;
+	height: 125px;
+}
+a {
+	color: #000000;
+}
+
+     
