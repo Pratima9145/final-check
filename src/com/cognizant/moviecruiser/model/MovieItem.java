@@ -4,8 +4,6 @@ import java.text.NumberFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-
-
 public class MovieItem {
 	private Long id;
 	private String title;
@@ -83,6 +81,7 @@ public class MovieItem {
 	public void setHasTeaser(boolean hasTeaser) {
 		this.hasTeaser = hasTeaser;
 	}
+
 	public int hashCode() {
 		final int prime = 31;
 		int result = 1;

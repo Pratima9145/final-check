@@ -40,7 +40,7 @@ public class FavoritesDaoCollectionImplTest {
 		}
 	}
 
-	private static void testRemoveFavoritesItem() {
+	private static void testRemoveFavoritesItem() throws FavoritesEmptyException {
 		FavoritesDao favoritesDao = new FavoritesDaoCollectionImpl();
 		System.out.println("\nList of movies removed by the user");
 		try {
