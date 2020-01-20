@@ -13,6 +13,8 @@
 	<header> <span> Movie Cruiser </span> <img class="img"
 		src="./images/logo.png" /> <a id="movie" href="ShowMovieListAdmin">Movies</a>
 	</header>
+	
+	
 	<div class="cont">
 		<h2>Edit Movie</h2>
 		<form name="movieform" method="post"

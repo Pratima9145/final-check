@@ -30,6 +30,11 @@ public class MovieItem {
 		return id;
 	}
 
+	public MovieItem() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
 	public void setId(Long id) {
 		this.id = id;
 	}
